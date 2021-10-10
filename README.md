@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ken-tech411
-- 👀 I’m interested in Game and Code
-- 🌱 I’m currently learning Js
+- 👀 I’m interested in Game and Web Development
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I'm learning at MindX
-- 📫 Reach me by 
+- 📫 Reach me by: 
 - 🚚 Email: kentruong2006@gmail.com
 - 🚚 Facebook: Ken Trương
 <!---
