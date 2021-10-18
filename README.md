@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ken-tech411
+- 👋 Hi, I’m Ken Trương
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I'm learning at MindX
