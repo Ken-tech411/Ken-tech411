@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ken Trương
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Javascript and Python
-- 💞️ I'm learning at MindX
-- 📫 Reach me by: 
 - 🚚 Email: kentruong2006@gmail.com
 - 🚚 Facebook: Ken Trương
 <!---
