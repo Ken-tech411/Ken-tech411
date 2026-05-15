@@ -36,7 +36,7 @@ I am currently exploring cloud technologies and aiming to learn how to deploy an
 ## 📫 Connect With Me
 
 - Email: kentruong2006@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ken-tr%C6%B0%C6%A1ng-67919329a/
+- LinkedIn: www.linkedin.com/in/đăng-kiên-trương-67919329a
 
 ---
 
