@@ -44,7 +44,3 @@ I am currently exploring cloud technologies and aiming to learn how to deploy an
 
 **Sociolla AI Skincare Platform**  
 An AI-driven e-commerce system with recommendation engine, BSTQ (64-question skin classification), and full admin dashboard.
-<!---
-Ken-tech411/Ken-tech411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
